@@ -309,13 +309,6 @@ What's my favorite gene?
 
 ---
 
-### 28. Multilingual Test
-```
-用中文解释什么是基因编辑
-```
-(Explain gene editing in Chinese)
-
----
 
 ## 📋 File Preparation Checklist
 
