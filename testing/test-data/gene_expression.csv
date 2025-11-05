@@ -1,0 +1,6 @@
+Gene,Expression_Level,Condition,P_Value
+BRCA1,2.5,Cancer,0.001
+TP53,0.8,Cancer,0.005
+EGFR,3.2,Cancer,0.002
+KRAS,1.5,Normal,0.450
+MYC,2.1,Cancer,0.010

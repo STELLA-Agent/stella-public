@@ -1,0 +1,6 @@
+Drug,Phase,Success_Rate,Sample_Size,Year
+Drug_A,Phase1,85,50,2023
+Drug_A,Phase2,70,150,2024
+Drug_B,Phase1,90,45,2023
+Drug_B,Phase2,65,120,2024
+Drug_C,Phase1,75,60,2023
