@@ -228,59 +228,9 @@ Create a tool that takes a protein sequence and predicts its secondary structure
 
 ---
 
-## 🎯 Level 7: Stress and Boundary Tests
+## 🧪 Level 7: Specific Feature Tests
 
-### 20. Rapid Consecutive Questions (interval < 2 seconds)
-```
-What is PCR?
-```
-```
-What is qPCR?
-```
-```
-What's the difference between them?
-```
-
----
-
-### 21. Long Input Test
-```
-I have a research project about understanding the molecular mechanisms of CRISPR-Cas9 gene editing in mammalian cells, specifically focusing on off-target effects and how to minimize them. I need to: 1) Find relevant recent papers, 2) Identify the main off-target detection methods, 3) Compare their accuracy, 4) Suggest the best approach for my specific use case which involves editing the BRCA1 gene in human cell lines. Can you help me with this comprehensive analysis?
-```
-
----
-
-### 22. Invalid Request Test
-```
-Read the file that_does_not_exist.txt
-```
-
----
-
-### 23. Vague Request Test
-```
-Do something with genes
-```
-
----
-
-### 24. Project Switching Test
-
-**In Project A:**
-```
-Search for papers about CRISPR and give me a detailed summary (this is a long task)
-```
-
-**Immediately switch to Project B, then:**
-```
-Hello
-```
-
----
-
-## 🧪 Level 8: Specific Feature Tests
-
-### 25. Time Display Test
+### 20. Time Display Test
 ```
 What time is it now?
 ```
@@ -288,14 +238,14 @@ What time is it now?
 
 ---
 
-### 26. Tool List View
+### 21. Tool List View
 ```
 What tools do you have access to?
 ```
 
 ---
 
-### 27. Memory Function Test
+### 22. Memory Function Test
 
 **Day 1:**
 ```
@@ -373,10 +323,10 @@ Drug_C,Phase1,75,60,2023
 ## 🎯 Recommended Testing Sequences
 
 ### Quick Test (15 minutes)
-Test questions: 1, 2, 4, 8, 12, 25
+Test questions: 1, 2, 4, 8, 12, 20
 
 ### Standard Test (45 minutes)
-Test questions: 1-15, 20, 25, 26
+Test questions: 1-15, 20, 21
 
 ### Complete Test (2 hours)
-All test questions: 1-28
+All test questions: 1-22
